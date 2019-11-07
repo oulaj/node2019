@@ -1,0 +1,19 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Test node with npm to create an express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oulaj/node2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oulaj/node2019/issues"
+  },
+  "homepage": "https://github.com/oulaj/node2019#readme"
+}
